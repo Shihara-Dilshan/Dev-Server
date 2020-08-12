@@ -6,11 +6,13 @@
   "main": "app.mjs",
   "scripts": {
     "start": "nodemon",
+    "server": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "shihara",
   "license": "MIT",
   "dependencies": {
+    "live-server": "^1.2.1",
     "nodemon": "^2.0.4"
   }
 }
