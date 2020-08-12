@@ -1,4 +1,4 @@
-# A Development server for Java Script with nodemon
+# A Development server for both Browser and Node Environments with nodemon and live-server.
 
 ## Project setup
 ```
